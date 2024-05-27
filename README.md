@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Birla
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayushbirla)](https://www.linkedin.com/in/ayushbirla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayushbirla71)](https://www.linkedin.com/in/ayush-birla-3523b0250/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&labelColor=black&link=https://github.com/ayushbirla)](https://github.com/ayushbirla)
 
 ## 🚀 About Me
