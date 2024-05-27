@@ -1,22 +1,86 @@
+# 👋 Hi, I'm Ayush Birla
 
-<h1 align="center">Hi 👋, I'm Ayush Birla</h1>
-<h3 align="center">I'm a Backend Developer & Mern Developer</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ayushbirla)](https://www.linkedin.com/in/ayushbirla)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&labelColor=black&link=https://github.com/ayushbirla)](https://github.com/ayushbirla)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushbirla71&label=Profile%20views&color=0e75b6&style=flat" alt="ayushbirla71" /> </p>
+## 🚀 About Me
 
-- 💬 Ask me about **react, node, express, mongoDB**
+I am a passionate developer with a strong foundation in both front-end and back-end technologies. I have a B.Sc. in Honors Agriculture Science and Rural Development from RKDF College Of Technology and Research, Bhopal. My interests lie in creating scalable and efficient web applications.
 
-- 📫 How to reach me **ayushbirla71@gmail.com**
+## 🎓 Education
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-birla-3523b0250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayush-birla-3523b0250/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushbirla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushbirla/" height="30" width="40" /></a>
-</p>
+**RKDF College Of Technology and Research, Bhopal**  
+B.Sc. - Honors Agriculture Science and Rural Development  
+CGPA: 7.7  
+2018 – 2022
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🛠️ Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushbirla71&show_icons=true&locale=en&layout=compact" alt="ayushbirla71" /></p>
+### Languages
+- JavaScript
+- HTML5
+- CSS3
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushbirla71&show_icons=true&locale=en" alt="ayushbirla71" /></p>
+### Technologies/Frameworks
+- React
+- NodeJS
+- Express
+- Bootstrap
+- Git
+- AWS-S3
+- Redux
+- JWT
+
+### Developer Tools
+- VS Code
+- Canva
+- Figma
+- Postman
+
+### Coding Platforms
+- **Leetcode:** Solved 80+ Problems
+- **GeeksforGeeks:** Solved 50+ Problems
+- **InterviewBit:** Solved 50+ Problems
+- **CodeZinger:** Solved 100+ Problems
+
+## 💼 Experience
+
+### Teaching Assistant at FunctionUp | Advanced Data Structure, JS, Reactjs
+**July 2023 - Feb 2024**
+- Expanded knowledge in Advanced Data Structure, React, Node, Express, DBMS
+- Assisted in teaching Full Stack Web Development, troubleshooting code, and providing student support.
+- Conducted code reviews and provided constructive feedback to improve coding skills.
+- Demonstrated expertise in front-end and back-end technologies, including HTML, CSS, JavaScript, Node.js, React, MongoDB, and MySQL.
+
+### Backend Developer Trainee at FunctionUp | Nodejs, JS, Reactjs, MongoDB
+**Sep 2022 - July 2023**
+- Worked on backend projects using various coding methodologies.
+- Developed projects like book management system, shopping site, and blogging site.
+- Implemented user authentication and authorization, CRUD operations, search, and filter functionality.
+- Handled databases and created responsive front-end using HTML, CSS, and JavaScript.
+
+## 📚 Projects
+
+### E-commerce Site
+**July 2023**
+- Developed a robust e-commerce website using Node.js and MongoDB.
+- Implemented secure user authentication and integrated Stripe for payment processing.
+- Designed for scalability and performance with a responsive front end and efficient back end.
+
+### Cloud Memories - Storage Site
+**June 2023**
+- Developed a cloud-based platform for storing and sharing digital memories like photos and documents.
+- Achieved a scalable, cost-effective solution ensuring data privacy and a seamless user experience.
+- Managed database integration and module integration with existing systems.
+
+### Smart Library
+**Nov 2022**
+- Developed backend for a digital library system for efficient management of digital resources and user interactions.
+- Implemented RESTful APIs for seamless integration with the front-end.
+- Ensured smooth user experiences and efficient data retrieval.
+
+## 📫 How to reach me
+- **Email:** Ayushbirla71@gmail.com
+- **Phone:** +91-8120123827
+
+Feel free to reach out if you want to collaborate on a project or just want to say hi!
